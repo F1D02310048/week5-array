@@ -23,7 +23,7 @@ Tugas ini bertujuan untuk memahami dan mengimplementasikan enam metode array yan
 
   <img width="372" height="126" alt="gambar" src="https://github.com/user-attachments/assets/60b00292-2790-4977-a336-36d69a034fe9" />
 
-- **find** : dalam kasus yang saya buat, 'find' digunakan untuk mencari hobi dengan awalan karakter R.
+- **find** : dalam kasus yang saya buat, `find()` digunakan untuk mencari hobi dengan awalan karakter R.
 
   <img width="819" height="165" alt="gambar" src="https://github.com/user-attachments/assets/002a8638-e7a1-404e-8eec-5bbb9fb35778" />
 
